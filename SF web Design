@@ -1,0 +1,117 @@
+index.html <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>S Web Design</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #222;
+      color: #fff;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    .tagline {
+      font-size: 1rem;
+      margin-top: 0.5rem;
+    }
+    main {
+      padding: 2rem 1rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    h2 {
+      color: #111;
+      margin-bottom: 0.5rem;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    li {
+      margin-bottom: 0.5rem;
+    }
+    .price-box {
+      background-color: #fff;
+      border: 1px solid #ddd;
+      padding: 1rem;
+      border-radius: 10px;
+    }
+    footer {
+      background-color: #222;
+      color: #fff;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+    }
+    .contact {
+      margin-top: 1rem;
+      font-size: 1.1rem;
+    }
+    a.button {
+      display: inline-block;
+      padding: 0.6rem 1rem;
+      background: #222;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 6px;
+      margin-top: 0.8rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>S Web Design</h1>
+    <p class="tagline">I help small businesses, startups, and brands build beautiful websites using free and fast tools. I focus on affordable, clean, and mobile-friendly design. Let’s grow your business online.</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>What We Do</h2>
+      <p>We build beautiful, mobile-friendly websites using fast and free tools. Perfect for businesses who want affordable design and fast delivery.</p>
+    </section>
+
+    <section>
+      <h2>Services We Offer</h2>
+      <ul>
+        <li>Website design for businesses</li>
+        <li>Online portfolio or bio sites</li>
+        <li>Basic Canva logo design</li>
+        <li>Social media banner design</li>
+      </ul>
+    </section>
+
+    <section class="price-box">
+      <h2>Prices</h2>
+      <p>Starting from <strong>R250</strong></p>
+      <p>Fast delivery in <strong>1–3 days</strong></p>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+      <p class="contact">Tel / WhatsApp: <strong>071 848 6055</strong></p>
+      <p>If you would like a quote or examples of previous work, please contact me and I will respond promptly.</p>
+      <a class="button" href="tel:+27718486055">Call or WhatsApp</a>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 S Web Design. All rights reserved.
+  </footer>
+
+</body>
+</html>
